@@ -1,0 +1,6 @@
+Pillow
+google
+gradio
+nltk
+pandas
+scikit-learn
